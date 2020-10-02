@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Janie Montoya Ledet', // Title for your website.
-    tagline: 'I collaborate to solve human problems thru technolgy.',
+    tagline: 'I am enjoying the 2020 Grace Hopper Conference!',
     profilePhoto: 'img/profile.png',
     url: 'https://janieled.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
